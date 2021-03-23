@@ -1,0 +1,4 @@
+maria01 : {'nome': 'Maria da Silva', 'idade': 25, 'sexo': 'feminino', 'login': 'maria01'}
+pedro_1 : {'nome': 'Pedro do Nascimento', 'idade': 23, 'sexo': 'masculino', 'login': 'pedro_1'}
+jorge.r : {'nome': 'Jorge Rodrigues', 'idade': 28, 'sexo': 'masculino', 'login': 'jorge.r'}
+teresinha : {'nome': 'Teresa de Jesus', 'idade': 35, 'sexo': 'feminino', 'login': 'teresinha'}
